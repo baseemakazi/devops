@@ -1,0 +1,21 @@
+create maven project demo
+java code:
+public class Demo{
+  public Static void mian(String args[])
+  {
+  System.out.println("hekoiioahs");
+  }
+  }
+  tools>vcs tool>enable (but use git)=okay
+  git repo
+  commit changes
+  for 9 files
+  your project is shared to github account
+  !!
+
+  //maven job
+  create project
+  build nw
+  console output
+  done!!
+  
