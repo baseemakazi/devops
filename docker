@@ -1,0 +1,34 @@
+docker pull alpine
+docker images
+docker run alpine sh
+
+//list d containers
+  docker ps -a
+  
+  //run a detached container
+  docker run -d -it alpine sh
+docker ps -a
+
+//interact with contaner
+ docker run -it alpine sh
+  #ls
+  #exit
+  docker ps -a
+
+  //give name to container
+  docker run -it --name=meracontainer alpine sh
+  docker ps -a
+
+  //stop a container
+  docker stop meracontineer
+  docker ps -a
+
+  //remove a contianer
+  docker rm meracontaineer
+docker ps -a
+
+  //docker remove img
+  docker rmi -f alpine
+  
+  
+  
