@@ -1,0 +1,19 @@
+manage jenkins
+plugin
+available pluign'mave integration' download
+  view download progress
+dashboard>managa jenkins>tools:
+  installation process:
+  git path
+  c:programifles\git\bin\git.exe
+  maven path also
+c:progrma=files:apachmavenbin/apachemaven.98.83.1
+  save
+
+//create jenkin job
+job name
+db>test job>config.n
+git repo url
+save
+build now
+check pc for:program data/jenkins/jenkins/workspace/test job
